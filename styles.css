@@ -22,7 +22,7 @@ body, html {
     align-items: center;
     text-align: center;
     color: white;
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('https://fournisseur-self-stockage.multi-storage-systems.com/wp-content/uploads/2011/10/Fournisseur-Self-stockage-porte-3-eme-generation-middle.jpg) no-repeat center center;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('https://fournisseur-self-stockage.multi-storage-systems.com/wp-content/uploads/2011/10/Fournisseur-Self-stockage-porte-3-eme-generation-middle.jpg') no-repeat center center;
     background-size: cover;
     padding: 1rem;
 }
